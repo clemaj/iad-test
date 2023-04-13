@@ -40,7 +40,7 @@ class PropertyRulesViolationException extends DomainException
     {
         throw new self(
             123,
-            'test',
+            'App\Country',
             'Country not allowed or not implemented'
         );
     }
