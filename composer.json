@@ -1,0 +1,17 @@
+{
+    "name": "clemaj/iad",
+    "description": "PR tech test",
+    "type": "project",
+    "require": {
+        "webmozart/assert": "^1.11",
+        "symfony/console": "5.4",
+        "doctrine/orm": "^2.14"
+    },
+    "license": "IT",
+    "authors": [
+        {
+            "name": "Clement Maj"
+        }
+    ],
+    "minimum-stability": "stable"
+}
